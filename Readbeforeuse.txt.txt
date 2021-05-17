@@ -3,4 +3,4 @@
 Before using, make sure Learning HTML.htm gets opened by a web browser, as i am unsure if it could mess anything else up should it be opened in the wrong application.
 Also, if you want you can also edit Learning HTML.htm if you want! If you are on Windows then right click on the file, and then click properties, then open the file with Notepad. if you are on MacOS than control-click on Learning HTML.htm, then click open with, then MAKE SURE YOU CHOOSE TEXTEDIT, NOT NOTES.
 
-Have a good day and thank you for downloading- C0deMakr
+Have a good day and thank you for downloading!- C0deMakr
